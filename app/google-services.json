@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "209841897668",
+    "firebase_url": "https://mayaboutique-db61b.firebaseio.com",
+    "project_id": "mayaboutique-db61b",
+    "storage_bucket": "mayaboutique-db61b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209841897668:android:ecfdbe10a5fbe30c",
+        "android_client_info": {
+          "package_name": "com.example.mayaboutique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209841897668-p5ai551tl6bp8agq4d7fv7v6f9ipon00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayaboutique",
+            "certificate_hash": "3a4e0302e8b4e3bd5be60caadeebdbe84a64e31c"
+          }
+        },
+        {
+          "client_id": "209841897668-jarrkp6pmvnbavfmfor02ltdp0q3rf1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq_vq6wT1_DJ1_VzIotUeAbsSihTLYwGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209841897668-jarrkp6pmvnbavfmfor02ltdp0q3rf1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209841897668:android:aa233e4622159da7",
+        "android_client_info": {
+          "package_name": "com.example.mayaboutiqueclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209841897668-c638mlcffcd9bmtfug8t7aavfkt4aaon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayaboutiqueclient",
+            "certificate_hash": "bfee86276c432c7bba9be57e94d1cdfb5d13769a"
+          }
+        },
+        {
+          "client_id": "209841897668-ua4s7b2496hvln9p8m1ilvjsie6g5pqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayaboutiqueclient",
+            "certificate_hash": "3a4e0302e8b4e3bd5be60caadeebdbe84a64e31c"
+          }
+        },
+        {
+          "client_id": "209841897668-jarrkp6pmvnbavfmfor02ltdp0q3rf1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq_vq6wT1_DJ1_VzIotUeAbsSihTLYwGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209841897668-jarrkp6pmvnbavfmfor02ltdp0q3rf1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209841897668:android:ad5ebf60ff840f6f",
+        "android_client_info": {
+          "package_name": "com.example.pageadaptertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209841897668-1qvdge3vob024cugh3v7cqai14bdkvcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pageadaptertest",
+            "certificate_hash": "3a4e0302e8b4e3bd5be60caadeebdbe84a64e31c"
+          }
+        },
+        {
+          "client_id": "209841897668-jarrkp6pmvnbavfmfor02ltdp0q3rf1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq_vq6wT1_DJ1_VzIotUeAbsSihTLYwGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209841897668-jarrkp6pmvnbavfmfor02ltdp0q3rf1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
